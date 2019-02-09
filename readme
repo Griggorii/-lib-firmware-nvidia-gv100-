@@ -1,0 +1,2 @@
+root run arhive inpack in /lib/firmware/nvidia/  
+run terminal && update-initramfs -u -v
